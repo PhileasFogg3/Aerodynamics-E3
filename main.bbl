@@ -1,0 +1,163 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/apasortcite//global/global}
+    \entry{BSI_HearingProtectors}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e8f4ecafd11eedf70d699449719ce1f9}{%
+           family={{British Standards Institution}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BSI Group}%
+      }
+      \strng{namehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{fullhash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{bibnamehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{authorbibnamehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{authornamehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{authorfullhash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hearing Protectors – General Requirements – Earplugs}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://knowledge.bsigroup.com/products/hearing-protectors-general-requirements-earplugs
+      \endverb
+      \verb{url}
+      \verb https://knowledge.bsigroup.com/products/hearing-protectors-general-requirements-earplugs
+      \endverb
+    \endentry
+    \entry{Clancy1986}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b6e28a47968997f93d243f419aabf8b}{%
+           family={Clancy},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {Pitman Publishing}%
+      }
+      \strng{namehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{fullhash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{bibnamehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{authorbibnamehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{authornamehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{authorfullhash}{3b6e28a47968997f93d243f419aabf8b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aerodynamics}
+      \field{year}{1986}
+      \verb{urlraw}
+      \verb https://archive.org/details/aerodynamics0000clan
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/aerodynamics0000clan
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{nyt/global//global/global}
+    \entry{BSI_HearingProtectors}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e8f4ecafd11eedf70d699449719ce1f9}{%
+           family={{British Standards Institution}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BSI Group}%
+      }
+      \strng{namehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{fullhash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{bibnamehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{authorbibnamehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{authornamehash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \strng{authorfullhash}{e8f4ecafd11eedf70d699449719ce1f9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hearing Protectors – General Requirements – Earplugs}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://knowledge.bsigroup.com/products/hearing-protectors-general-requirements-earplugs
+      \endverb
+      \verb{url}
+      \verb https://knowledge.bsigroup.com/products/hearing-protectors-general-requirements-earplugs
+      \endverb
+    \endentry
+    \entry{Clancy1986}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3b6e28a47968997f93d243f419aabf8b}{%
+           family={Clancy},
+           familyi={C\bibinitperiod},
+           given={L.\bibnamedelimi J.},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{publisher}{1}{%
+        {Pitman Publishing}%
+      }
+      \strng{namehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{fullhash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{bibnamehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{authorbibnamehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{authornamehash}{3b6e28a47968997f93d243f419aabf8b}
+      \strng{authorfullhash}{3b6e28a47968997f93d243f419aabf8b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aerodynamics}
+      \field{year}{1986}
+      \verb{urlraw}
+      \verb https://archive.org/details/aerodynamics0000clan
+      \endverb
+      \verb{url}
+      \verb https://archive.org/details/aerodynamics0000clan
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
